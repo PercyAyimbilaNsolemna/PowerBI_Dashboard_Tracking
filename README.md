@@ -381,6 +381,8 @@ Advanced filter handling techniques were applied to ensure slicers interacted co
 
 ### Page 1 — Overall Performance Metrics
 
+![Performance Metrics](images/Performance_Metrics.png)
+
 **Objective:** Provide an executive summary of program performance.
 
 #### KPI Cards
@@ -453,7 +455,6 @@ Attrition tracking
 <tr>
 <td width="50%">
 
-- Cohort
 - Track (Power BI / AWS Cloud)
 
 </td>
@@ -475,6 +476,8 @@ Attrition tracking
 ---
 
 ### Page 2 — Detailed Learner Insights
+
+![Performance Metrics](images/Learner_Insights.png)
 
 **Objective:** Provide trainer-level visibility into individual learner performance.
 
