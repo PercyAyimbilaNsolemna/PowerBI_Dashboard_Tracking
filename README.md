@@ -94,9 +94,7 @@ The dashboard was built to:
 ├──  Dare Careers Stundent Tracking Dashboard.pbix
 |    
 |
-├──  README.md
-|    
-
+├──  README.md  
 
 ```
 ---
@@ -734,7 +732,7 @@ Provides leadership-ready reporting
 
 **If this dashboard helped you understand Power BI analytics, consider starring the repository**
 
-[![Star](https://img.shields.io/github/stars/yourusername/dare-careers-dashboard?style=social)](https://github.com/yourusername/dare-careers-dashboard)
+[![Star](https://img.shields.io/github/stars/PercyAyimbilaNsolemna/PowerBI_Dashboard_Tracking?style=social)](https://github.com/PercyAyimbilaNsolemna/PowerBI_Dashboard_Tracking)
 
 ---
 
